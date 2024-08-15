@@ -1,12 +1,14 @@
 # Experiment
 
 ```
-Downloading sf bay trip data
-Downloaded sf bay trip data
+Downloading uk trip data
+Downloaded uk trip data
+2785762 bytes
 starting hashes
-hash time: 18.099µs
-decode time: 1.220362ms
-new decode time: 786.692µs
+hash time: 84.208µs
+decode time prost unoptimised: 13.340676ms
 ```
 
 Hashing raw bytes is faster.
+
+WyHash is 2x speed of AHash
